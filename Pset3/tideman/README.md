@@ -1,7 +1,7 @@
 ### Task: ###
 **Implement a program that runs a Tideman election.**
 
-### Specification ###
+### Specification: ###
 Tideman voting method consists of 3 parts:
 
 - **Tally**: Once all of the voters have indicated all of their preferences, determine, for each pair of candidates, who the preferred candidate is and by what margin they are preferred.
