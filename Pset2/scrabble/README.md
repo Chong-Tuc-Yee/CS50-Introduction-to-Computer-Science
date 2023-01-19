@@ -39,6 +39,13 @@ Program will print results of either one of the following:<br>
 - `Player 1 wins!`
 - `Player 2 wins!`
 - `Tie`
+
+To run program, user can run following commands in codespace terminal:
+1. `cd Pset2`
+2. `cd scrabble`
+3. `make scrabble`
+4. `./scrabble`
+
 ```
 $ ./scrabble
 Player 1: Question?
