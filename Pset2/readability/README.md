@@ -1,13 +1,23 @@
 ### Task:
 **Implement a program that computes the approximate grade level needed to comprehend some text using Coleman-Liau index.**<br>
+
+Practice Question Source Link: [More Info](https://cs50.harvard.edu/x/2022/psets/2/readability/)
+
 *Note: Coleman-Liau index of a text is designed to output what grade level (U.S.) is needed to understand the text.*<br>
 *Formula: `index = 0.0588 * L - 0.296 * S - 15.8`*<br>
 *(`L`: Average number of letters per 100 words in the text, `S`: Average number of sentences per 100 words in the text)*
 
 ### Usage:
+To run program, user can run following commands in codespace terminal:
+1. `cd Pset2`
+2. `cd readability`
+3. `make readability`
+4. `./readability`
+
 Program should behave as per examples below and output the grade level within 1 to 16.<br>
 If index < 1, output should be "Before Grade 1".<br>
 If index > 16, output should be "Grade 16+".
+
 ```
 $ ./readability
 Text: Congratulations! Today is your day. You're off to Great Places! You're off and away!
