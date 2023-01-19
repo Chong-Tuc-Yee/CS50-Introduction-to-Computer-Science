@@ -2,7 +2,7 @@
 **Implement a program that prompts user to input a credit card number and program will check whether it is valid credit card number 
 and reports whether it is American Express, Mastercard or Visa card number according to Luhn's algorithm**
 
-Practice Question Source: [Source Link](https://cs50.harvard.edu/x/2022/psets/1/credit/)
+Practice Question Source Link: [More Info](https://cs50.harvard.edu/x/2022/psets/1/credit/)
 
 ### Usage:
 Program should behave as per examples below.<br>
