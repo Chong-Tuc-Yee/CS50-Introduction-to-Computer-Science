@@ -1,7 +1,7 @@
 ### Task:
 **Implement a program which prints out a pyramid block with a fixed gap equal to width of two hashes in the middle (Similar to an obstacle in Mario game). The pyramid's height is based on user input.**
 
-Practice Question Source: [More Info](https://cs50.harvard.edu/x/2022/psets/1/mario/more/)
+Practice Question Source Link: [More Info](https://cs50.harvard.edu/x/2022/psets/1/mario/more/)
 
 ### Usage:
 Program should behave as per examples below.<br>
