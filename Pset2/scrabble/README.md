@@ -2,6 +2,8 @@
 **In a game of Scrabble, players create words to score points and the number of points is the sum of the point values of each letter in the word.
 Two players each enter their word and the higher scoring player wins the game.**
 
+Practice Question Source Link: [More Info](https://cs50.harvard.edu/x/2022/labs/2/)
+
 Note: Characters that are *not letters* should be given 0 points and *lowercase and uppercase characters* will be given same points.
 
 | Letters | Point Value |
