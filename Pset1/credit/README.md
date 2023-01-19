@@ -7,6 +7,7 @@ Identify following types of merchant:
 - American Express
 - Mastercard
 - Visa
+
 To run program, user can run following commands in codespace terminal:
 1. `cd Pset1`
 2. `cd credit`
