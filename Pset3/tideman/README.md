@@ -8,9 +8,12 @@ Tideman voting method consists of 3 parts:
 - **Sort**: Sort the pairs of candidates in decreasing order of strength of victory, where strength of victory is defined to be the number of voters who prefer the preferred candidate.
 - **Lock**: Starting with the strongest pair, go through the pairs of candidates in order and “lock in” each pair to the candidate graph, so long as locking in that pair does not create a cycle in the graph.
 
-Practice Question Source: [More Info](https://cs50.harvard.edu/x/2021/psets/3/tideman/)
+Practice Question Source: [More Info](https://cs50.harvard.edu/x/2022/psets/3/tideman/)
 
 ### Usage: ###
+
+User can run program with just
+
 Program should behave as per below:
 ```
 ./tideman Alice Bob Charlie
