@@ -16,7 +16,7 @@ To run program, user can run following commands in codespace terminal:
 1. `cd Pset4`
 2. `cd recover`
 3. `make recover`
-4. `./recover [filter] [original BMP image file] [output BMP image file]` (Eg. ./filter -r images/IMAGE.bmp images/REFLECTED.bmp)
+4. `./recover card.raw`
 
 Your program should behave per the examples below:
 ```
