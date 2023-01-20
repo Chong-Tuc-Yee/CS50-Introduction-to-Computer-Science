@@ -8,9 +8,17 @@ At the end of the election, whichever candidate has the greatest number of votes
 User input required for *`candidates' names`*, *`number of voters`* and *`names of candidates voted for each voting person`*.
 It is possible that the election could end in a tie if multiple candidates each have the maximum number of votes. In that case, you should output the names of each of the winning candidates, each on a separate line.
 
-Practice Question Source: [More Info](https://cs50.harvard.edu/x/2021/psets/3/plurality/)
+Practice Question Source: [More Info](https://cs50.harvard.edu/x/2022/psets/3/plurality/)
 
 ### Usage:
+
+To run program, user can run following commands in codespace terminal:
+
+1. `cd Pset3`
+2. `cd plurality`
+3. `make plurality`
+4. `./plurality`
+
 Program should behave as per examples below:
 ```
 $ ./plurality Alice Bob
