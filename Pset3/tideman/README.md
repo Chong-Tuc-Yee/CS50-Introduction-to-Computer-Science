@@ -12,7 +12,12 @@ Practice Question Source: [More Info](https://cs50.harvard.edu/x/2022/psets/3/ti
 
 ### Usage: ###
 
-User can run program with just
+To run program, user can run following commands in codespace terminal:
+
+1. `cd Pset3`
+2. `cd tideman`
+3. `make tideman`
+4. `./tideman`
 
 Program should behave as per below:
 ```
