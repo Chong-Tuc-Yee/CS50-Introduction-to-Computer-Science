@@ -28,7 +28,8 @@ where IMAGE is the name of the forensic image. For example:
 $ ./recover card.raw
 ```
 
-To check whether the JPEGs the program spit out are correct, simply double-click and take a look. If each photo appears intact, the operation was likely a success.
-A total of **49 JPG files** should be recovered.<br>
+To check whether the JPEGs the program spit out are correct, simply double-click and take a look. If each photo appears intact, the operation was likely a success. <br>
+A total of **49 JPG files** should be recovered.
+
 ![image](https://user-images.githubusercontent.com/107826905/213927953-dfce2035-0d3f-489b-b790-960e95b3fe2d.png)
 
