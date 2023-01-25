@@ -27,6 +27,10 @@ To run program, user can execute following commands in codespace terminal after 
     Alternatively, user can also run this command for the 3rd step: <br>
     `$ cat filename.sql | sqlite3 movies.db > output.txt` to redirect output of query to a text file called `output.txt`
     
+To check out the contents of all tables in the database, user can execute following commands instead of step 3 in above:
+1. `sqlite3 songs.db`
+2. `.schema`
+
 ### Program Testing: ###
 
 User can check whether output from query matches the question requirement for each. <br>
