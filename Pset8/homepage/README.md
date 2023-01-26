@@ -25,3 +25,18 @@ To run program, user can execute following commands in codespace terminal:
 4.  `Ctrl+click` on `index.html` link 
 
 ### Program Example: ###
+Main page: `index.html` contains multiple links: **About**, **Skills & Portfolio**, **Contact** & **View My Resume**. <br>
+Each link will direct user to another html page: <br>
+- **About**: Linked to `about.html` webpage.
+- **Skills & Portfolio**: Linked to `skills.html` webpage.
+- **Contact**: Linked to `contact.html` webpage.
+- **View My Resume** link will redirect user to same webpage as **Skills & Portfolio** link. 
+
+**`index.html`**
+
+![image](https://user-images.githubusercontent.com/107826905/214814358-6a12b213-55af-4906-971e-a4ce14b218e2.png)
+
+**`skills.html`**
+- Each of the subpages contains the `Back` button which will bring user back to main page `index.html`
+
+![image](https://user-images.githubusercontent.com/107826905/214816197-4dd41d4c-116e-456e-8129-c3b7d40747d2.png)
