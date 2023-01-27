@@ -41,3 +41,8 @@ Next, to start Flask's built-in web server, user can execute following commands 
 To check out database `finance.db`, user can use program `PhpLiteAdmin` or execute:
 1. `sqlite3 finance.db`
 2. `.schema`
+
+### Program Example: ###
+
+![image](https://user-images.githubusercontent.com/107826905/215118723-bbd94840-db9a-4bc7-837b-1c70745a12a5.png)
+
