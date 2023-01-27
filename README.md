@@ -3,7 +3,7 @@ Self Study on Harvard Computer Science Course
 
 ### **Course's link**
 
-See [here](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x). (https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript)
+See https://www.edx.org/course/introduction-computer-science-harvardx-cs50x. (https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript)
 
 ### **Requirements**
 
