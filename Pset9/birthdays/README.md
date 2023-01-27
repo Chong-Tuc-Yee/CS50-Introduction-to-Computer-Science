@@ -19,7 +19,7 @@ Practice Question Source: [More Info](https://cs50.harvard.edu/x/2022/labs/9/)
 To run program, user can execute following commands in codespace terminal:
 1. `cd Pset9`
 2. `cd birthdays`
-3. `http-server`
+3. `flask run`
 
 ### Program Example: ###
 ![image](https://user-images.githubusercontent.com/107826905/215060676-e88ca92a-6a92-43c4-b538-3d9f14e24209.png)
