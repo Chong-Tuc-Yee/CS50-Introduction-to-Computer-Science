@@ -1,11 +1,11 @@
 ## HarvardX CS50x: Introduction to Computer Science
 Self Study on Harvard Computer Science Course
 
-### Course's link ###
+### Course's Link ###
 
 See [here](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x). (https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript)
 
-### Course Structure: ###
+### Course Content: ###
 
 1. [Pset1 (C)](https://github.com/Chong-Tuc-Yee/HarvardX-CS50-Introduction-to-Computer-Science/tree/main/Pset1)
 2. [Pset2 (Arrays)](https://github.com/Chong-Tuc-Yee/HarvardX-CS50-Introduction-to-Computer-Science/tree/main/Pset2)
