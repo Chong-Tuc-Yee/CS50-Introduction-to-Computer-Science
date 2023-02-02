@@ -8,7 +8,7 @@ See [here](https://www.edx.org/course/introduction-computer-science-harvardx-cs5
 ### Course Content: ###
 
 1. [Pset1 (C)](https://github.com/Chong-Tuc-Yee/HarvardX-CS50-Introduction-to-Computer-Science/tree/main/Pset1)
-  - Mario Pyramid Builder
+  - Mario Pyramid Builder and Credit Card 
 2. [Pset2 (Arrays)](https://github.com/Chong-Tuc-Yee/HarvardX-CS50-Introduction-to-Computer-Science/tree/main/Pset2)
 3. [Pset3 (Algorithms)](https://github.com/Chong-Tuc-Yee/HarvardX-CS50-Introduction-to-Computer-Science/tree/main/Pset3)
 4. [Pset4 (Memory)](https://github.com/Chong-Tuc-Yee/HarvardX-CS50-Introduction-to-Computer-Science/tree/main/Pset4)
